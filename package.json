@@ -1,0 +1,15 @@
+{
+  "name": "flashcardsjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^2.0.0"
+  }
+}

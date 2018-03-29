@@ -1,0 +1,30 @@
+[
+    {
+      "partial": "The study of Thermodynamics is devoted to the study of heat and related phenomen.",
+      "cloze": "Thermodynamics"
+    },
+    {
+      "partial": "In our Solar System, the planet Jupiter has the shortest day.",
+      "cloze": "Jupiter"
+    },
+    {
+      "partial": "Harry Potter and the Philosopher's Stone was famously rejected by 12 publishers before finally being accepted by Bloomsbury.",
+      "cloze": "Philosopher's Stone"
+    },
+    {
+      "partial": "The blank Ural Mountains separate Europe from Asia.",
+      "cloze": "Ural"
+    },
+    {
+      "partial": "Regarding data storage, the acronymn SSD stands for Solid State Drive",
+      "cloze": "Solid State Drive"
+    },
+    {
+      "partial": "Spanish Painter Salvador Dali was the surrealist painter best known for his work The Persistence of Memory",
+      "cloze": "Salvador Dali"
+    },
+    {
+      "partial": "The Ewoks first appeared in Star Wars Episode VI Return of the Jedi",
+      "cloze": "Return of the Jedi"
+    }
+]
